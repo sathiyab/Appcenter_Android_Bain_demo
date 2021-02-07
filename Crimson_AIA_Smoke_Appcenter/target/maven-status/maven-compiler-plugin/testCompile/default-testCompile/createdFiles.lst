@@ -1,0 +1,14 @@
+com\aia\crimson\appcenter\automation\page\ContentPage.class
+com\aia\crimson\appcenter\automation\page\ProfilePage.class
+com\aia\crimson\appcenter\automation\page\HomePage.class
+com\aia\crimson\appcenter\automation\base\PropManager.class
+com\aia\crimson\appcenter\automation\page\TalkToDoctorOrNursePage.class
+com\aia\crimson\appcenter\automation\page\IntroPage.class
+com\aia\crimson\appcenter\automation\page\LoginPage.class
+com\aia\crimson\appcenter\automation\test\SmokeTest.class
+com\aia\crimson\appcenter\automation\page\MomentsLogPage.class
+com\aia\crimson\appcenter\automation\page\GroupPage.class
+com\aia\crimson\appcenter\automation\page\LiveEventsPage.class
+com\aia\crimson\appcenter\automation\util\Constants.class
+com\aia\crimson\appcenter\automation\util\GenericFunctions.class
+com\aia\crimson\appcenter\automation\base\TestBase.class
